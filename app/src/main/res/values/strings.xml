@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Uni Application</string>
+    <string name="login_activity">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register_activity">Register</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="auth_failed">Authentication Failed</string>
+    <string name="sample_activity">Sample Activity</string>
+    <string name="signout">Signout</string>
+    <string name="ForgotPasswordActivity">Forgot Password</string>
+    <string name="ResetPassword">ResetPassword</string>
+    <string name="Back">Back</string>
+
+    <string name="button">Back</string>
+</resources>
